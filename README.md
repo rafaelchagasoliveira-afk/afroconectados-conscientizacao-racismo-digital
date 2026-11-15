@@ -34,7 +34,7 @@ Neste 20 de novembro e em todos os dias do ano, convidamos você a fazer parte d
 
 Acesse o site publicado pelo GitHub Pages:
 
-https://rafaelchagasoliveira-afk.github.io/conscientiza-oMulheres-negras-na-internet-e-sua-/#racismo
+https://rafaelchagasoliveira-afk.github.io/afroconectados-conscientizacao-racismo-digital/
 
 Para abrir no computador, baixe o repositório e abra o arquivo `index.html` no navegador.
 
